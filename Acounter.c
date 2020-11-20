@@ -3,7 +3,7 @@ int main() {
    int A=1;
    while (A<=10)
    {
-   printf( " ");
+   printf(" coding blocks");
    printf("hacker blocks");
 
    A =  A +1;
