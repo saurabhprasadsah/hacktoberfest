@@ -40,7 +40,7 @@ int main()
 	
 	cout<<"key not found !"<<endl;
 	else
-	cout<<"key  found !"<<i<<","<<j<<
+	cout<<"key  found !"<<i<<","<<j;
 	
 	
 	return 0;
